@@ -1,0 +1,6 @@
+
+1. 安装Node.js，使用npm安装nodemon
+	（1）网上有教程；（2）安装nodemon： npm install nodemon -g 
+2. 在命令行中切换到本目录下，执行nodemon命令即可启动服务器
+ 	nodemon exp.js
+3.在微信开发者工具中导入totalOrder目录
