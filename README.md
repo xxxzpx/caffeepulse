@@ -1,2 +1,3 @@
-# caffeepulse
-miniprogress for the coffee
+# 点餐系统微信小程序
+
+一个点餐系统！
